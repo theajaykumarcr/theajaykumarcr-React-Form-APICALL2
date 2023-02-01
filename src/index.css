@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.navbarsm{
+  background-color: aqua;
+  align-items: center;
+  justify-content: center;
+}
